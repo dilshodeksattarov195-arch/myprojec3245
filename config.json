@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderpync",
+        "uuid": 30016250,
+        "checksum": "q2dhuh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
